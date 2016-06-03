@@ -1,2 +1,2 @@
 # hotel
-Website Hotel IKS
+Website Hotel IKS group
